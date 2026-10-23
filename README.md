@@ -1,16 +1,17 @@
-## Hi there 👋
+# Embedded Software Engineer
 
-<!--
-**QuanTheLe/QuanTheLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C/C++ | FreeRTOS | Zephyr | STM32 | RP2350 | Linux
 
-Here are some ideas to get you started:
+## Engineering Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SquidSat — Flight Software
+[View Repository](https://github.com/ASU-SDSL/squidsat-fsw)
+
+Embedded flight software development using C/C++,
+FreeRTOS, and Zephyr.
+
+### Coconut CubeSat — NASA CSLI
+[View Repository](https://github.com/ASU-SDSL/coconut-fsw)
+
+Embedded C flight software development on RP2040
+using FreeRTOS.
